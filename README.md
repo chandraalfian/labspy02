@@ -70,11 +70,11 @@ perhatikan struktur algoritma dengan psuedocode berikut ini:
 
 proyek:
 
-![inputcode](gambar/inputcode.PNG)
+![inputcode](gambar/inputcode.png)
 
 output yang ditampillkan:
 
-![hasilcode](gambar/hasilcode.PNG)
+![hasilcode](gambar/hasilcode.png)
 
 ini adalah hasil source code nya
 
